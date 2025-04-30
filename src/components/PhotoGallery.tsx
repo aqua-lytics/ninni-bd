@@ -39,7 +39,7 @@ const extraPhotos: Photo[] = [
 ];
 
 // Playlist song names and corresponding local music files
-const playlist = ["Lover!", "Tu Chahiye!", "Ajeeb O Gareeb!"];
+const playlist = ["💞", "😭", "🫶🏻"];
 const songFiles = [songA, songB, songC];
 
 interface PhotoGalleryProps {
