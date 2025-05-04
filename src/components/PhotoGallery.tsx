@@ -20,7 +20,7 @@ interface Photo {
 const photos: Photo[] = [
   {
     url: Pic1,
-    caption: "Pasandeeda Aurat! (love of my life eheh😭🫶🏻)",
+    caption: "If we were two sunflowers i would have faced you instead of sun😭🫶🏻...",
   },
   {
     url: Pic2,
@@ -260,7 +260,7 @@ export const PhotoGallery: React.FC<PhotoGalleryProps> = ({ onComplete, stopBgMu
                         A Special Note
                       </h4>
                       <p className="text-gray-700 text-lg text-center px-2">
-                        TO BE ADDED
+                        If we were two sunflowers i would have faced you instead of sun😭...
                       </p>
                       <p className="text-sm text-gray-500 mt-2">
                         (Click again to flip back)

@@ -10,27 +10,27 @@ export const FinalMessage: React.FC = () => {
   const postcards = [
     {
       color: "red",
-      message: "Message 3",
+      message: "You make my heart feel like it’s summer when the rain is pouring down.",
       symbol: "🃏"
     },
     {
       color: "yellow",
-      message: "Message 2",
+      message: "Take my hand....\nTake my whole life too..",
       symbol: "🔄"
     },
     {
       color: "green",
-      message: "Message 3",
+      message: "What will I Have if I loose you..\nWhat will I loose if I have You!",
       symbol: "+4"
     },
     {
       color: "blue",
-      message: "Message 4",
+      message: "My days, they begin with your name,\nAnd nights end with your breath..",
       symbol: "⏭️"
     },
     {
       color: "purple",
-      message: "Message 5",
+      message: "Oh, baby I am a wreck when I'm without you",
       symbol: "🎯"
     }
   ];
