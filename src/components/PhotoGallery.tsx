@@ -9,7 +9,7 @@ import Pic5 from "./img/extra2.jpg"; // Extra small photo
 
 // Import local playlist music files
 import songA from "./music/lover.mp3";
-import songB from "./music/tuchahiye.mp3";
+import songB from "./music/little_bit_better.mp3";
 import songC from "./music/ajeebogareeb.mp3";
 
 interface Photo {
