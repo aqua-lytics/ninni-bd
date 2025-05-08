@@ -20,15 +20,15 @@ interface Photo {
 const photos: Photo[] = [
   {
     url: Pic1,
-    caption: "Home!😭🫶🏻...",
+    caption: "So many places, but only one feels like Home—YOU!🫶🏻...",
   },
   {
     url: Pic2,
-    caption: "My Walking Stick!!!",
+    caption: "Favorite support? That hand I never stop holding (Walking Stick eheh)!!!😭...",
   },
   {
     url: Pic3,
-    caption: "My Fav Pillow!!",
+    caption: "Forever pillow? Your lap!!💗..",
   },
 ];
 
@@ -259,9 +259,14 @@ export const PhotoGallery: React.FC<PhotoGalleryProps> = ({ onComplete, stopBgMu
                       <h4 className="text-3xl font-bold text-pink-600 mb-3">
                         A Special Note
                       </h4>
-                      <p className="text-gray-700 text-lg text-center px-2">
-                        If we were two sunflowers i would have faced you instead of sun😭...
-                      </p>
+                      <p className="text-gray-700 text-lg text-center px-2">💞</p>
+                        <p className="text-gray-700 text-lg text-center px-2">You can ask the Flowers,</p>
+                        <p className="text-gray-700 text-lg text-center px-2">I sit for Hours,</p>
+                        <p className="text-gray-700 text-lg text-center px-2">Tellin' all the Bluebirds,</p>
+                        <p className="text-gray-700 text-lg text-center px-2">The Bill and Coo Birds,</p>
+                        <p className="text-gray-700 text-lg text-center px-2">Pretty Little Ninni!!</p>
+                        <p className="text-gray-700 text-lg text-center px-2">I'M SOO IN LOVEE WITH YOUUU!!...</p>
+                        <p className="text-gray-700 text-lg text-center px-2">💞</p>
                       <p className="text-sm text-gray-500 mt-2">
                         (Click again to flip back)
                       </p>

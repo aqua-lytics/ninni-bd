@@ -20,7 +20,7 @@ export const FinalMessage: React.FC = () => {
     },
     {
       color: "green",
-      message: "What will I Have if I loose you..\nWhat will I loose if I have You!",
+      message: "As Long as I'm with you\nI've got a smile on my Face!",
       symbol: "+4"
     },
     {
