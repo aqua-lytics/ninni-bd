@@ -39,6 +39,9 @@ export const FinalMessage: React.FC = () => {
     if (!flipped.includes(index)) {
       setFlipped([...flipped, index]);
     }
+    else {
+      setFlipped(flipped.filter(i => i !== index));  // Allow toggling flip back
+    }
   };
 
   return (

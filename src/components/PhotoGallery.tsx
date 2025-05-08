@@ -20,7 +20,7 @@ interface Photo {
 const photos: Photo[] = [
   {
     url: Pic1,
-    caption: "If we were two sunflowers i would have faced you instead of sun😭🫶🏻...",
+    caption: "Home!😭🫶🏻...",
   },
   {
     url: Pic2,
